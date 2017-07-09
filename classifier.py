@@ -85,4 +85,4 @@ def train_email_classifier(x):
 
 		print('Accuracy {}'.format(accuracy.eval({X: dataset[''], Y: dataset['']})))
 
-# train_email_classifier(X)
+train_email_classifier(X)
