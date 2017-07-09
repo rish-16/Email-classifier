@@ -5,8 +5,6 @@ import tensorflow as tf
 import sklearn
 from sklearn.model_selection import train_test_split
 
-dataset = 
-
 n_hl1 = 500
 n_hl2 = 500
 n_hl3 = 500
